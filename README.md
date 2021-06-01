@@ -1,2 +1,2 @@
 # TicTacToe-Python
-This project is a TicTacToe game with a computer AI to play against.
+TicTacToe game with an AI to play against.
